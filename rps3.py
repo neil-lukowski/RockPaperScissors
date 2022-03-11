@@ -1,3 +1,13 @@
+##################################################
+## Rock Paper Scissors
+##################################################
+## Author: Neil Lukowski
+## Date: 5/5/2019
+## Version: 1.0
+##
+## Description: It's Rock Paper Scissors in Python
+##################################################
+
 p1_wins = 0
 p2_wins = 0
 ties = 0
